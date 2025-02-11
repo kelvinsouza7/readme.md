@@ -3,5 +3,5 @@
 💡 Criativo, organizado e cuidadoso  
 📍 Aberto a oportunidades remotas  
 🌎 Inglês, Português e Espanhol fluentes
-👨🏽‍🎓 Engenheiro com TCC realizado através da ferramenta Python
-🇦🇺 Experiência como Desenvolvedor por 8 meses na Austrália
+👨🏽‍🎓 Engenheiro com TCC realizado através da ferramenta Python 
+🇦🇺 Experiência como Desenvolvedor por 8 meses na Austrália 
